@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642802010741",
+    "project_id": "fb-miner-934b3",
+    "storage_bucket": "fb-miner-934b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642802010741:android:651c548b55580c845d863c",
+        "android_client_info": {
+          "package_name": "com.example.fb_miner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642802010741-t3kq8iul42g8lo5u46gato15heq30o0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb_miner",
+            "certificate_hash": "f7fe9227a72cd764a35e7197e3a2752d07dea009"
+          }
+        },
+        {
+          "client_id": "642802010741-85chrinb0ii3c4ua698f3sut5nkdn2g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBYOxJi9uVvTQgLcIXRfXGwFdVQIW4QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642802010741-85chrinb0ii3c4ua698f3sut5nkdn2g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
